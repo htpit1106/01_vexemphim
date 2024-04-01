@@ -1,0 +1,10 @@
+C:\Users\phuon\source\repos\rap  chieu phim\rap  chieu phim\bin\Debug\rap  chieu phim.exe.config
+C:\Users\phuon\source\repos\rap  chieu phim\rap  chieu phim\bin\Debug\rap  chieu phim.exe
+C:\Users\phuon\source\repos\rap  chieu phim\rap  chieu phim\bin\Debug\rap  chieu phim.pdb
+C:\Users\phuon\source\repos\rap  chieu phim\rap  chieu phim\obj\Debug\rap  chieu phim.csproj.AssemblyReference.cache
+C:\Users\phuon\source\repos\rap  chieu phim\rap  chieu phim\obj\Debug\rap__chieu_phim.Form1.resources
+C:\Users\phuon\source\repos\rap  chieu phim\rap  chieu phim\obj\Debug\rap__chieu_phim.Properties.Resources.resources
+C:\Users\phuon\source\repos\rap  chieu phim\rap  chieu phim\obj\Debug\rap  chieu phim.csproj.GenerateResource.cache
+C:\Users\phuon\source\repos\rap  chieu phim\rap  chieu phim\obj\Debug\rap  chieu phim.csproj.CoreCompileInputs.cache
+C:\Users\phuon\source\repos\rap  chieu phim\rap  chieu phim\obj\Debug\rap  chieu phim.exe
+C:\Users\phuon\source\repos\rap  chieu phim\rap  chieu phim\obj\Debug\rap  chieu phim.pdb
